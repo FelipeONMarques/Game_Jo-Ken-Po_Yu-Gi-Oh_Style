@@ -15,3 +15,7 @@ conceitos abordados:
 <hr>
 
 <img src="src/assets/img/game_Jo-Ken-Po2.png" alt="Segunda demonstração do Jogo">
+
+<hr>
+
+<img src="src/assets/img/game_Jo-Ken-Po3.png" alt="Terceira demonstração do Jogo">
